@@ -19,9 +19,9 @@ GREEN = (0,255,0)
 BLUE = (0,0,255)
 LIGHT_BLUE = (102,255,255)
 
-btn_font = pygame.font.SysFont("arial", 20)
-guess_font = pygame.font.SysFont("monospace", 24)
-lost_font = pygame.font.SysFont('arial', 45)
+btn_font = pygame.font.SysFont("arial", 30)
+guess_font = pygame.font.SysFont("monospace", 34)
+lost_font = pygame.font.SysFont('arial', 55)
 word = ''
 buttons = []
 guessed = []
